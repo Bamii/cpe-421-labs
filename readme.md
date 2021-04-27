@@ -1,4 +1,4 @@
-# cpe 401 labs
+# cpe 421 labs
 lab 1: addition of two unsigned binary digits
 lab 2: subtraction of signed digits
 lab 3: multiplication of unsigned digits
